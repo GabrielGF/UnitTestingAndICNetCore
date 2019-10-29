@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj": {}
+    "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\TPInvestigacion\\TPInvestigacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj"
+        "projectPath": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Entidades\\Entidades.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj": {
+    "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Servicios\\Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Servicios\\Servicios.csproj",
         "projectName": "Servicios",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj",
+        "projectPath": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Servicios\\Servicios.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj"
+              "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -35,17 +35,20 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj": {
+    "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\TPInvestigacion\\TPInvestigacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\TPInvestigacion\\TPInvestigacion.csproj",
         "projectName": "TPInvestigacion",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\TPInvestigacion.csproj",
-        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\TPInvestigacion\\obj\\",
+        "projectPath": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\TPInvestigacion\\TPInvestigacion.csproj",
+        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\TPInvestigacion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,11 +61,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Entidades\\Entidades.csproj"
+              "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Entidades\\Entidades.csproj"
               },
-              "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj": {
-                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TPInvestigacion\\Servicios\\Servicios.csproj"
+              "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Servicios\\Servicios.csproj": {
+                "projectPath": "C:\\Users\\julia\\Desktop\\UnitTestingAndICNetCore\\Servicios\\Servicios.csproj"
               }
             }
           }

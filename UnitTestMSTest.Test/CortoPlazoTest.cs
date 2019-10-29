@@ -1,6 +1,12 @@
-using Entidades;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Collections.Generic;
+using System.Text;
+using Entidades;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Moq;
+using Servicios;
+using TPInvestigacion;
 
 namespace UnitTestMSTest.Test
 {
@@ -33,7 +39,5 @@ namespace UnitTestMSTest.Test
             cp.Capital = 1000;
             cp.CalcularComision();
         }
-
-       
     }
 }

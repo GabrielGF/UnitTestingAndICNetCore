@@ -23,3 +23,11 @@ C:\Users\Gabriel\source\repos\TPInvestigacion\Servicios\obj\Debug\Servicios.cspr
 C:\Users\Gabriel\source\repos\TPInvestigacion\Servicios\obj\Debug\Servicios.csproj.CopyComplete
 C:\Users\Gabriel\source\repos\TPInvestigacion\Servicios\obj\Debug\Servicios.dll
 C:\Users\Gabriel\source\repos\TPInvestigacion\Servicios\obj\Debug\Servicios.pdb
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Servicios\bin\Debug\Servicios.dll
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Servicios\bin\Debug\Servicios.pdb
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Servicios\bin\Debug\Entidades.dll
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Servicios\bin\Debug\Entidades.pdb
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Servicios\obj\Debug\Servicios.dll
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Servicios\obj\Debug\Servicios.pdb

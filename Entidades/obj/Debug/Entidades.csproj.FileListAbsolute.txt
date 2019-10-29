@@ -14,3 +14,8 @@ C:\Users\Gabriel\source\repos\TPInvestigacion\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Gabriel\source\repos\TPInvestigacion\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\Users\Gabriel\source\repos\TPInvestigacion\Entidades\obj\Debug\Entidades.dll
 C:\Users\Gabriel\source\repos\TPInvestigacion\Entidades\obj\Debug\Entidades.pdb
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Entidades\bin\Debug\Entidades.dll
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Entidades\bin\Debug\Entidades.pdb
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Entidades\obj\Debug\Entidades.dll
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Entidades\obj\Debug\Entidades.pdb
+C:\Users\julia\Desktop\UnitTestingAndICNetCore\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache

@@ -7,11 +7,29 @@ using Entidades;
 
 namespace Servicios
 {
-    public class OperacionServicios
+    public class OperacionServicios : IOperacionService
     {
         private static List<Operacion> ListaOperaciones = new List<Operacion>();
 
-        public static void AgregarOperacion(Operacion o)
+        public const string ERROR_CAPITAL = "El Capital no debe ser 0";
+        public const string ERROR_MESES = "La cantidad de meses debe ser mayor a 0";
+
+        public List<string> ValidarOperacion(Operacion o)
+        {
+            var errores = new List<string>();
+
+            if (o.Capital == 0D)
+                errores.Add(ERROR_CAPITAL);
+
+
+            if (o.Meses <= 0)
+                errores.Add(ERROR_MESES);
+
+
+            return errores;
+        }
+
+        public void AgregarOperacion(Operacion o)
         {
             o.Id = ListaOperaciones.Count() + 1;
 
@@ -32,7 +50,7 @@ namespace Servicios
             }
         }
 
-        public static List<Operacion> ListarOperaciones()
+        public List<Operacion> ListarOperaciones()
         {
             if (ListaOperaciones.Count() == 0)
             {
