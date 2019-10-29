@@ -1,0 +1,30 @@
+﻿@model List<Entidades.Operacion>
+@{
+    ViewBag.Title = "VerOperaciones";
+}
+
+<h2>VerOperaciones</h2>
+<table>
+    <tr>
+        <td>IdComision</td>
+        <td>Capital</td>
+        <td>Plazo</td>
+        <td>Comision</td>
+        <td>=</td>
+        <td>Ganancia</td>
+    </tr>
+    
+        @foreach (var operacion in Model)
+        {
+    <tr>
+        <td>@operacion.Id</td>
+        <td>@operacion.Capital</td>
+        <td>@operacion.Meses</td>
+        <td>@operacion.CalcularComision()</td>
+        <td>=</td>
+        <td>@operacion.GananciaTotal()</td>
+    </tr>
+        }
+    
+</table>
+

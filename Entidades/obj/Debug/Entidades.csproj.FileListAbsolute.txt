@@ -1,0 +1,16 @@
+C:\Users\laboratorios\source\repos\Gabrielfalon\Entidades\bin\Debug\Entidades.dll
+C:\Users\laboratorios\source\repos\Gabrielfalon\Entidades\bin\Debug\Entidades.pdb
+C:\Users\laboratorios\source\repos\Gabrielfalon\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\laboratorios\source\repos\Gabrielfalon\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\laboratorios\source\repos\Gabrielfalon\Entidades\obj\Debug\Entidades.dll
+C:\Users\laboratorios\source\repos\Gabrielfalon\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gabriel\source\repos\Gabrielfalon\Gabrielfalon\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gabriel\source\repos\Gabrielfalon\Gabrielfalon\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gabriel\source\repos\Gabrielfalon\Gabrielfalon\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\Gabrielfalon\Gabrielfalon\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gabriel\source\repos\Gabrielfalon\Gabrielfalon\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gabriel\source\repos\TPInvestigacion\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gabriel\source\repos\TPInvestigacion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gabriel\source\repos\TPInvestigacion\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\TPInvestigacion\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gabriel\source\repos\TPInvestigacion\Entidades\obj\Debug\Entidades.pdb

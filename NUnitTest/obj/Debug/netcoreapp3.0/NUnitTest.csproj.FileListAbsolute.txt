@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\bin\Debug\netcoreapp3.0\NUnitTest.deps.json
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\bin\Debug\netcoreapp3.0\NUnitTest.dll
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\bin\Debug\netcoreapp3.0\Entidades.dll
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\bin\Debug\netcoreapp3.0\Entidades.pdb
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\bin\Debug\netcoreapp3.0\NUnitTest.pdb
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.dll
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\obj\Debug\netcoreapp3.0\NUnitTest.pdb
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\bin\Debug\netcoreapp3.0\nunit.engine.dll
+C:\Users\Gabriel\source\repos\TPInvestigacion\NUnitTest\bin\Debug\netcoreapp3.0\nunit.engine.api.dll
